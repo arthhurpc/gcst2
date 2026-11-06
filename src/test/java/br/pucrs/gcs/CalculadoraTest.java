@@ -8,7 +8,7 @@ class CalculadoraTest {
 
     @Test
     void deveSomarDoisNumeros() {
-        assertEquals(6, calc.somar(2, 3));
+        assertEquals(5, calc.somar(2, 3));
     }
 
     @Test
